@@ -23,7 +23,7 @@
 	},
 	"devDependencies": {
 		"@types/glob": "^7.1.1",
-		"@types/mocha": "^5.2.6",
+		"@types/mocha": "^7.0.2",
 		"@types/node": "^10.12.21",
 		"@types/npm": "^2.0.31",
 		"@types/vscode": "^1.39.0",
